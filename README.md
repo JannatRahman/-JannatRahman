@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Apr 8, 2026, 04_39_31 PM" src="https://github.com/user-attachments/assets/af2bdab0-ff0e-4fe3-ab6d-25c0b186904a" />
+<img width="1536" height="407" alt="ChatGPT Image Apr 8, 2026, 04_39_31 PM" src="https://github.com/user-attachments/assets/162c12c8-42bc-4ef7-beab-95dee47f2d8b" />
 
 # Hi there 👋, I'm Jannat Amila Rahman
 
@@ -36,14 +36,5 @@ Deepening my knowledge in **React, API integration, and responsive design**, alo
 
 To become a professional web developer and build impactful, user-focused digital experiences.
 
-### 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-</p>
-
-
-
 
 ⭐ *Always learning, always building.*
-
