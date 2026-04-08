@@ -17,7 +17,7 @@ Deepening my knowledge in **React, API integration, and responsive design**, alo
 ### 📫 How to reach me
 
 * Email: [jannatrahman1290@gmail.com](mailto:jannatrahman1290@gmail.com)
-* GitHub: ([https://github.com/[JannatRahman](https://github.com/jannhttps://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svgatrahman)]
+* GitHub: ([https://github.com/[/JannatRahman](https://github.com/jannhttps://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svgatrahman)]
 * LinkedIn: [https://linkedin.com/in/[jannat-amila-rahman/](https://www.linkedin.com/in/jannat-amila-rahman/)]
 
 ---
